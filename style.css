@@ -4,8 +4,15 @@ div {
     position: relative;
 }
 p {
+    margin: 0%;
+    padding: 1em;
     font-weight: bolder;
     position: absolute;
-    right: 10%;
-    top: 90%;
+}
+#time{
+    left: 5%;
+}
+#date{
+    right: 5%;
+    bottom: 0%;
 }
