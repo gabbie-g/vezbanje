@@ -1,7 +1,11 @@
 div {
     background-color: aqua;
-    height: max-content;
+    height: 50vh;
+    position: relative;
 }
 p {
     font-weight: bolder;
+    position: absolute;
+    right: 10%;
+    top: 90%;
 }
